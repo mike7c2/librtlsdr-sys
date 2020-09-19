@@ -16,5 +16,5 @@ links = "librtlsdr"
 [dependencies]
 
 [build-dependencies]
-bindgen = "0.47.2"
+bindgen = "0.50.0"
 pkg-config = "0.3.14"
