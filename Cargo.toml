@@ -1,6 +1,6 @@
 [package]
 name = "librtlsdr-sys"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Bo Stendal Sorensen <bo@stendal-sorensen.net>"]
 description = "FFI bindings for librtlsdr"
 license = "MIT"
